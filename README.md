@@ -3,7 +3,9 @@ VideoPlayer
 
 Video Player Plugin for Cordova 3.3+ Android
 
-Updated version of http://github.com/macdonst/VideoPlayer by Simon MacDonald
+Based on https://github.com/dawsonloudon/VideoPlayer by Dawson Loudon
+
+The only difference with Dawson Loudon plugin is the npm package which makes it possible to use this plugin with PhoneGap Build service.
 
 Installation
 ===========
